@@ -1,0 +1,24 @@
+E:\J pixel\Software development\Kalki V2\Kalki V2\bin\Debug\Kalki V2.exe.config
+E:\J pixel\Software development\Kalki V2\Kalki V2\bin\Debug\Kalki V2.exe
+E:\J pixel\Software development\Kalki V2\Kalki V2\bin\Debug\Kalki V2.pdb
+E:\J pixel\Software development\Kalki V2\Kalki V2\obj\Debug\Kalki V2.csprojAssemblyReference.cache
+E:\J pixel\Software development\Kalki V2\Kalki V2\obj\Debug\Kalki_V2.Form1.resources
+E:\J pixel\Software development\Kalki V2\Kalki V2\obj\Debug\Kalki_V2.Properties.Resources.resources
+E:\J pixel\Software development\Kalki V2\Kalki V2\obj\Debug\Kalki V2.csproj.GenerateResource.cache
+E:\J pixel\Software development\Kalki V2\Kalki V2\obj\Debug\Kalki V2.csproj.CoreCompileInputs.cache
+E:\J pixel\Software development\Kalki V2\Kalki V2\obj\Debug\Kalki V2.exe
+E:\J pixel\Software development\Kalki V2\Kalki V2\obj\Debug\Kalki V2.pdb
+E:\J pixel\Software development\Kalki V2\Kalki V2\obj\Debug\Kalki_V2.Login_form.resources
+E:\J pixel\Software development\Kalki V2\Kalki V2\obj\Debug\Kalki_V2.New_Order.resources
+E:\J pixel\Software development\Kalki V2\Kalki V2\obj\Debug\Kalki_V2.Order.resources
+E:\J pixel\Software development\Kalki V2\Kalki V2\obj\Debug\Kalki_V2.Manager_Code.resources
+E:\J pixel\Software development\Kalki V2\Kalki V2\obj\Debug\Kalki_V2.Success_message.resources
+E:\J pixel\Software development\Kalki V2\Kalki V2\obj\Debug\Kalki_V2.Update_Order.resources
+E:\J pixel\Software development\Kalki V2\Kalki V2\obj\Debug\Kalki_V2.Search_order.resources
+E:\J pixel\Software development\Kalki V2\Kalki V2\obj\Debug\Kalki_V2.Settings.resources
+E:\J pixel\Software development\Kalki V2\Kalki V2\obj\Debug\Kalki_V2.View_of__order_Directory.resources
+E:\J pixel\Software development\Kalki V2\Kalki V2\obj\Debug\Kalki_V2.Work.resources
+E:\J pixel\Software development\Kalki V2\Kalki V2\obj\Debug\Kalki_V2.Accounts.resources
+E:\J pixel\Software development\Kalki V2\Kalki V2\obj\Debug\Kalki_V2.Account_Settings.resources
+E:\J pixel\Software development\Kalki V2\Kalki V2\obj\Debug\Kalki_V2.Package_Details.resources
+E:\J pixel\Software development\Kalki V2\Kalki V2\obj\Debug\Kalki_V2.Wedding.resources
